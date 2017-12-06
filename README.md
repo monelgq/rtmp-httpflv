@@ -17,5 +17,5 @@ RTMP直播和推流地址:   rtmp://mylivehost:1935/live/mystream
 
 HTTP-FLV直播地址:     http://mylivehost:7001/live/mystream.flv
 
-HTTP-FLV直播地址:     http://mylivehost:7002/live/mystream.m3u8
+HTTP-HLS直播地址:     http://mylivehost:7002/live/mystream.m3u8
 
